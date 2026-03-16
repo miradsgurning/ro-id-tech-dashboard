@@ -22,3 +22,9 @@ This project is a web-based data visualization application developed as part of 
 
 ## Academic Goal
 Through this project, I aim to demonstrate my readiness for the rigorous **Computer Science** curriculum in Romania, focusing on software development and data-driven solutions.
+
+## Other Project
+**[Elite Task Manager (Web Engineering)](http://miracle-project.great-site.net):** My collaborative project building a CRUD application with CodeIgniter 4.
+
+
+*Created as a part of a Computer Science Portfolio Project.*
